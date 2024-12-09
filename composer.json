@@ -10,11 +10,6 @@
             "mgrechanik\\gridviewfilterfix\\": "src/"
         }
     },
-    "autoload-dev": {
-        "psr-4": {
-
-        }
-    },    
     "authors": [
         {
             "name": "Mikhail Grechanik",
