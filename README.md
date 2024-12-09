@@ -4,7 +4,7 @@
 
 When you are using Yii2 default GridView you might meet a problem that validation errors for filter model are not displayed properly, like this:
 
-![Fix for Yii2 GridView DataColumn for filter validational errors to be properly shown with bootstrap 4 and 5](https://raw.githubusercontent.com/mgrechanik/yii2-gridview-filter-fix-for-bootstrap4-and-5/refs/heads/main/docs/yii2-gridview-filter-fix-for-bootstrap4-and-5.png "Fix for Yii2 GridView DataColumn for filter validational errors to be properly shown with bootstrap 4 and 5")
+![Fix for Yii2 GridView DataColumn for filter validational errors to be properly shown with bootstrap 4 and 5](https://raw.githubusercontent.com/mgrechanik/gridviewfilterfix/refs/heads/main/docs/yii2-gridview-filter-fix-for-bootstrap4-and-5.png "Fix for Yii2 GridView DataColumn for filter validational errors to be properly shown with bootstrap 4 and 5")
 
 ## Installing <span id="installing"></span>
 
