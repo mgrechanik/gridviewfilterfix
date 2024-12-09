@@ -25,7 +25,7 @@ to the require section of your `composer.json`.
 
 ## How to use  <span id="use"></span> 
 
-Add the following line of code to your main configuration file:
+Add the following lines of code to your main configuration file:
 1) For Bootstrap 4
 ```php
     'container' => [
