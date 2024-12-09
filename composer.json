@@ -1,0 +1,32 @@
+{
+    "name": "mgrechanik/gridviewfilterfix",
+    "description": "Fix for Yii2 GridView DataColumn for filter validation errors to be properly shown with bootstrap 4 and 5",
+    "type": "library",
+    "keywords": ["gridview", "filter", "validation", "bootstrap 4", "bootstrap 5", 
+        "fix error", "yii2", "php"],
+    "license": "BSD-3-Clause",
+    "autoload": {
+        "psr-4": {
+            "mgrechanik\\yii2gridviewfilterfix\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+
+        }
+    },    
+    "authors": [
+        {
+            "name": "Mikhail Grechanik",
+            "email": "mike.grechanik@gmail.com"
+        }
+    ],
+    "support": {
+            "issues": "https://github.com/mgrechanik/gridviewfilterfix/issues?state=open",
+            "source": "https://github.com/mgrechanik/gridviewfilterfix"
+    },    
+    "require": {
+        "php": ">=7.3.0",
+        "yiisoft/yii2": "^2.0.43"
+    }
+}
