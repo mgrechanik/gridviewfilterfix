@@ -49,3 +49,17 @@ Add the following lines of code to your main configuration file:
     ],
 ```
 
+
+## Similar problems with GridView and Bootstrap 4 / 5
+
+#### Paginator does not look good  <span id="paginator problem"></span>
+
+Solution:
+
+```php
+    'container' => [
+        'definitions' => [
+            \yii\widgets\LinkPager::class => \yii\bootstrap5\LinkPager::class,
+        ],
+    ],
+```
