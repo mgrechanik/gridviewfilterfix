@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace mgrechanik\yii2gridviewfilterfix;
+namespace mgrechanik\gridviewfilterfix;
 
 use yii\base\Model;
 use yii\bootstrap5\Html;

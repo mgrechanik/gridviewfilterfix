@@ -7,7 +7,7 @@
     "license": "BSD-3-Clause",
     "autoload": {
         "psr-4": {
-            "mgrechanik\\yii2gridviewfilterfix\\": "src/"
+            "mgrechanik\\gridviewfilterfix\\": "src/"
         }
     },
     "autoload-dev": {

@@ -14,12 +14,12 @@ The preferred way to install this library is through composer.
 
 Either run
 ```
-composer require --prefer-dist mgrechanik/yii2-gridview-filter-fix-for-bootstrap4-and-5
+composer require --prefer-dist mgrechanik/gridviewfilterfix
 ```
 
 or add
 ```
-"mgrechanik/yii2-gridview-filter-fix-for-bootstrap4-and-5" : "~1.0.0"
+"mgrechanik/gridviewfilterfix" : "~1.0.0"
 ```
 to the require section of your `composer.json`.
 
@@ -31,7 +31,7 @@ Add the following line of code to your main configuration file:
     'container' => [
         'definitions' => [
             \yii\grid\GridView::class => [
-                'dataColumnClass' => \mgrechanik\yii2gridviewfilterfix\Bs4DataColumn::class
+                'dataColumnClass' => \mgrechanik\gridviewfilterfix\Bs4DataColumn::class
             ]
         ]
     ],
@@ -43,7 +43,7 @@ Add the following line of code to your main configuration file:
     'container' => [
         'definitions' => [
             \yii\grid\GridView::class => [
-                'dataColumnClass' => \mgrechanik\yii2gridviewfilterfix\Bs5DataColumn::class
+                'dataColumnClass' => \mgrechanik\gridviewfilterfix\Bs5DataColumn::class
             ]
         ]
     ],
