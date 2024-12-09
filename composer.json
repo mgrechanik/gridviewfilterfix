@@ -21,7 +21,6 @@
             "source": "https://github.com/mgrechanik/gridviewfilterfix"
     },    
     "require": {
-        "php": ">=7.3.0",
-        "yiisoft/yii2": "^2.0.43"
+        "php": ">=7.3.0"
     }
 }
