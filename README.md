@@ -63,3 +63,8 @@ Solution:
         ],
     ],
 ```
+
+#### Error block under field is now shown, after failed validation, since this block is not at the same level with input.is-invalid
+
+There is a [library](https://github.com/mgrechanik/yii2-activefield-additional-error "Solve problem when invalid-feedback block is not visible for bootstrap in Yii2") to solve this problem
+
